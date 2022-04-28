@@ -1,0 +1,23 @@
+.recipes{
+    background-color: #228B22;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.des,.Ing,.step{
+font-weight: bold;
+font-size: 20px;
+}
+.para{
+    background-color: #228B22;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.achor{
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    background-color: #228B22;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
